@@ -21,6 +21,6 @@ SELECT COUNT(first_appearance) FROM characters_v4
 ![image](https://user-images.githubusercontent.com/112867913/216464829-3414d19b-ea3d-4114-bfc9-1aaab2561a41.png)
 ![image](https://user-images.githubusercontent.com/112867913/216466236-e86731ab-0463-411d-a3d6-2db27ff3937e.png)
 
-![image](https://user-images.githubusercontent.com/112867913/216470514-5796b964-1627-4ac4-b50c-fd9c630363e8.png)
+![image](https://user-images.githubusercontent.com/112867913/216471795-a5fc224e-36b5-449e-9205-6724015e6807.png)
 
 
